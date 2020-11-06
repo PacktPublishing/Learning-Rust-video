@@ -1,8 +1,8 @@
 # Learning-Rust-video-
 Learning Rust [video] , published by Packt
 
-# Learning Blockchain Application Development [Video]
-This is the code repository for [Learning Blockchain Application Development [Video]](https://www.packtpub.com/application-development/learning-blockchain-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781789345728), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Learning Rust [Video]
+This is the code repository for [Learning Rust [Video]](https://www.packtpub.com/product/learning-rust-video/9781788477918), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Blockchain disrupts many different aspects of our life including finance, retail, merchandising, identity, and more. Ethereum is a platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud, or third-party interference. This is the perfect guide to help you learn the basics of building decentralized applications with the Ethereum network. You’ll learn the core concepts of decentralized applications as we build an online marketplace, connecting buyers and sellers together to exchange goods and services. In doing so, you’ll deploy your code to the Ethereum network, and build a user Interface to expose your decentralized application to the world.
 
